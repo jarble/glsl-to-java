@@ -1,5 +1,5 @@
-# GLSL to TypeScript
- [A GLSL-to-TypeScript compiler](https://jarble.github.io/glsl-to-typescript/glsl_to_typescript.html)
+# GLSL to Java
+ [A GLSL-to-Java compiler](https://jarble.github.io/glsl-to-java/glsl_to_java.html)
 
 Still a work-in-progress.
 ## GLSL input:
